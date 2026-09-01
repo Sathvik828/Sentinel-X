@@ -1,0 +1,15 @@
+From: security@example.com
+To: analyst@example.com
+Subject: Security Alert - Verify Your Account
+Date: Tue, 1 Sep 2026 16:30:00 +0530
+Message-ID: <test123@example.com>
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+This is a test email for the Email Threat Intelligence application.
+
+Please review your account security.
+
+Regards,
+Security Team
